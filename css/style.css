@@ -9999,3 +9999,16 @@ h6,
 .slider.closed {
 	max-height: 0;
 }
+
+.far, .fab, .fa-brands {
+  transition: all 0.3s ease; 
+}
+
+.trigger-container:hover .far, .far:hover {
+  transform: scale(2,2);
+  color: #A04747 !important;
+}
+
+.btn-social:hover {
+  color: #A04747 !important;
+}
