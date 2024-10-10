@@ -2891,15 +2891,16 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
-.btn-outline-dark {
-  color: #343a40;
-  border-color: #343a40;
+.btn-outline-custom {
+  color: #fff;
+  background-color: #A04747;
+  border-color: #A04747;
 }
 
-.btn-outline-dark:hover {
-  color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+.btn-outline-custom:hover {
+  color: #A04747;
+  background-color: #fff;
+  border-color: #A04747;
 }
 
 .btn-outline-dark:focus, .btn-outline-dark.focus {
