@@ -4,4 +4,4 @@ Made with public template.
 
 
 ### Goal
-Have a platform for work presentation online.
+Have a platform for self-representation online.
