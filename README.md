@@ -4,4 +4,4 @@ Made with public template.
 
 
 ### Goal
-Gain more space and provide more insight in my work.
+Have a platform for work presentation online.
